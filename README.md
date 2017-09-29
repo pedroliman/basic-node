@@ -4,7 +4,7 @@
 [![Coverage Badge](https://api.shippable.com/projects/588579c63b653a0f00fa68d3/coverageBadge?branch=master)](https://app.shippable.com/projects/588579c63b653a0f00fa68d3)
 
 A simple Node JS application with unit tests and coverage reports using mocha
-and istanbul.
+and istanbul. Some test here!
 
 ![AyeAye](https://github.com/shippableSamples/node-with-tests-coverage/blob/master/public/resources/images/captain.png)
 
